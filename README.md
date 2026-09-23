@@ -132,7 +132,7 @@ Durante a graduação em **Sistemas de Informação**, venho desenvolvendo difer
 
 Experiências acadêmicas envolvendo **Inteligência Artificial, Agentes de IA e desenvolvimento Low-Code/No-Code**, explorando novas formas de criar soluções digitais.
 
-Uma das plataformas utilizadas durante os estudos é o **Glide**.
+
 
 ---
 
